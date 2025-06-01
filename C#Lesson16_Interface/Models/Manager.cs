@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BankNamespace;
 
 namespace ManagerNamespace
 {
-    public class Manager
+    public class Manager : Bank, IBank
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
@@ -28,6 +29,18 @@ namespace ManagerNamespace
             Surname = surname;
             Age = age;
             Position = position;
+        }
+
+        public void Organize()
+        {
+            Console.WriteLine($"[Manager: {Name} {Surname}] Organizing branch operations...");
+
+        }
+
+        public void CalculateSalaries()
+        {
+            Console.WriteLine($"[Manager: {Name} {Surname}] Calculating team salaries...");
+
         }
     }
 }

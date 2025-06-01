@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BankNamespace;
+using ClientNamespace;
 
 namespace CreditNamespace
 {
-    public class Credit
+    public class Credit : Bank, IBank
     {
 
         public Guid Id { get; set; }
@@ -14,19 +16,25 @@ namespace CreditNamespace
         public int Percent { get; set; }
         public int Amount { get; set; }
 
+        public Client clients { get; set; }
 
         public Credit()
         {
-            Id = Guid.NewGuid(); // Unikal ID avtomatik təyin olunur
+            Id = Guid.NewGuid();
         }
 
-        // Parametrli constructor
         public Credit(string months, int percent, int amount)
         {
-            Id = Guid.NewGuid(); // Unikal ID avtomatik təyin olunur
+            Id = Guid.NewGuid();
             Months = months;
             Percent = percent;
             Amount = amount;
+        }
+
+        public decimal CalculatePercent()
+        {
+            return 1;
+                
         }
     }
 }

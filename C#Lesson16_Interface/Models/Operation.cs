@@ -3,26 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BankNamespace;
 
 namespace OperationNameSpace
 {
-    public class Operation
+    public class Operation : Bank, IBank
     {
-        public Guid Id { get; set; }
+        public Guid Id { get; set; } = Guid.NewGuid();
 
         public string ProcessName { get; set; }
+        public DateTime ProsesStarted { get; set; }
 
 
-        public Operation()
+
+        public Operation(string processName, DateTime prosesStarted)
         {
-            Id = Guid.NewGuid(); // Unikal ID avtomatik verilir
-        }
-
-        // Parametrli constructor
-        public Operation(string processName)
-        {
-            Id = Guid.NewGuid(); // Unikal ID avtomatik verilir
             ProcessName = processName;
+            ProsesStarted = prosesStarted;
         }
     }
 }

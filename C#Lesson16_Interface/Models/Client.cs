@@ -3,32 +3,26 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Xml.Linq;
+using BaseNamespace;
 namespace ClientNamespace
 {
-    public class Client
+    public class Client : Base
     {
 
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public int Age { get; set; }
-        public string Position { get; set; }
+        public string Live_Address { get; set; }
+        public string Work_Address { get; set; }
+        public double Salary { get; set; }
 
 
-        public Client()
+
+        public Client(string name, string surname, int age, string liveAddress,
+           double salary, string workAddress)
+        : base(name, surname, age)
         {
-            Id = Guid.NewGuid();
-        }
-
-        // Parametrli constructor
-        public Client(string name, string surname, int age, string position)
-        {
-            Id = Guid.NewGuid();
-            Name = name;
-            Surname = surname;
-            Age = age;
-            Position = position;
+            Live_Address = liveAddress;
+            Work_Address = workAddress;
+            Salary = salary;
         }
     }
 }

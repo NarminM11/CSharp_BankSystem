@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using BankNamespace;
 
 namespace WorkerNamespace
 {
-    public class Worker
+    public class Worker : Bank, IBank
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
@@ -25,7 +26,6 @@ namespace WorkerNamespace
             Id = Guid.NewGuid();
         }
 
-        // Parametrli constructor
         public Worker(string name, string surname, int age, string position, int salary, DateTime startTime, DateTime endTime)
         {
             Id = Guid.NewGuid();
@@ -36,6 +36,21 @@ namespace WorkerNamespace
             Salary = salary;
             StartTime = startTime;
             EndTime = endTime;
+        }
+
+        public void Operation()
+        {
+            TimeSpan duration = EndTime - StartTime;
+            double hoursWorked = duration.TotalHours;
+            Console.WriteLine($"[Worker: {Name} {Surname}]");
+            Console.WriteLine($" • Position: {Position}");
+            Console.WriteLine($" • Worked from {StartTime:G} to {EndTime:G}");
+            Console.WriteLine($" • Total hours worked: {hoursWorked:F2} hours");
+        }
+
+        public void AddOpertion()
+        {
+
         }
     }
 
