@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\baseemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\baseemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\mybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\mybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|c:\\users\\ferid\\desktop\\c#\\c#lesson16_interface\\c#lesson16_interface\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EFBEB8-80AF-46CE-AAD0-2D152D79CBB0}|C#Lesson16_Interface\\C#Lesson16_Interface.csproj|solutionrelative:c#lesson16_interface\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +58,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Client.cs",
-              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:22:15.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Manager.cs",
-              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Manager.cs",
-              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Manager.cs",
-              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:20:25.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CEO.cs",
               "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\CEO.cs",
               "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\CEO.cs",
               "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\CEO.cs",
               "RelativeToolTip": "C#Lesson16_Interface\\Models\\CEO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:15:53.647Z",
+              "WhenOpened": "2025-06-02T15:19:51.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Worker.cs*",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Worker.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:38:27.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Credit.cs",
-              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Credit.cs",
-              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Credit.cs",
-              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Credit.cs",
-              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Credit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:19:28.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Operation.cs",
               "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Operation.cs",
               "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Operation.cs",
               "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Operation.cs",
               "RelativeToolTip": "C#Lesson16_Interface\\Models\\Operation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:18:32.998Z"
+              "WhenOpened": "2025-06-02T15:41:00.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Worker.cs",
-              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Worker.cs",
-              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Worker.cs",
-              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Manager.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:17:35.799Z"
+              "WhenOpened": "2025-06-02T15:21:02.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Bank.cs",
-              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Bank.cs",
-              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Bank.cs",
-              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Bank.cs",
-              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Bank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:10:30.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Program.cs",
               "RelativeDocumentMoniker": "C#Lesson16_Interface\\Program.cs",
               "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Program.cs",
               "RelativeToolTip": "C#Lesson16_Interface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:09:50.816Z"
+              "WhenOpened": "2025-06-02T16:01:59.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\BaseEmployee.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\BaseEmployee.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\BaseEmployee.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\BaseEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:47:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyBank.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\MyBank.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\MyBank.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\MyBank.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\MyBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:11:23.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Credit.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Credit.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Credit.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Credit.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:21:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Bank.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Bank.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:43:17.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\IBank.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\IBank.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\IBank.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\IBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:50:18.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Base.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Base.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Base.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:19:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "C#Lesson16_Interface\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#Lesson16_Interface\\C#Lesson16_Interface\\Models\\Client.cs",
+              "RelativeToolTip": "C#Lesson16_Interface\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:20:33.33Z"
             }
           ]
         }

@@ -4,31 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BankNamespace;
-
+using IBankNamespace;
+using BaseEmployeeNamespace;
 namespace ManagerNamespace
 {
-    public class Manager : Bank, IBank
+    public class Manager : BaseEmployee
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public int Age { get; set; }
 
-        public string Position { get; set; }
-
-
-        public Manager()
+        public Manager(string name, string surname, int age, double salary, string position)
+          : base(name, surname, age, position, salary)
         {
-            Id = Guid.NewGuid();
-        }
-
-        public Manager(string name, string surname, int age, string position)
-        {
-            Id = Guid.NewGuid();
-            Name = name;
-            Surname = surname;
-            Age = age;
-            Position = position;
         }
 
         public void Organize()

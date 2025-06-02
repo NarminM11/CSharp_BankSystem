@@ -1,0 +1,15 @@
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.sourcelink.json
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\bin\Debug\net8.0\C#Lesson16_Interface.exe
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\bin\Debug\net8.0\C#Lesson16_Interface.deps.json
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\bin\Debug\net8.0\C#Lesson16_Interface.runtimeconfig.json
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\bin\Debug\net8.0\C#Lesson16_Interface.dll
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\bin\Debug\net8.0\C#Lesson16_Interface.pdb
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.dll
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\refint\C#Lesson16_Interface.dll
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.pdb
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\C#Lesson16_Interface.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\C#\C#Lesson16_Interface\C#Lesson16_Interface\obj\Debug\net8.0\ref\C#Lesson16_Interface.dll

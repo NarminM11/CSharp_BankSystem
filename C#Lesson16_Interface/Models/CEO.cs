@@ -1,33 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BaseEmployeeNamespace;
 
 namespace CEONamespace
 {
-    public class CEO
+    public class CEO :BaseEmployee
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public int Age { get; set; }
-        public string Position { get; set; }
-        public int Salary { get; set; }
 
-        public CEO()
-        {
-            Id = Guid.NewGuid(); 
-        }
+ 
 
-        public CEO(string name, string surname, int age, string position, int salary)
+        public CEO(string name, string surname, int age, string position, int salary): base( name,  surname,  age,  position, salary)
         {
-            Id = Guid.NewGuid(); 
-            Name = name;
-            Surname = surname;
-            Age = age;
-            Position = position;
-            Salary = salary;
+ 
         }
     }
 }
